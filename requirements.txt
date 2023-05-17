@@ -1,0 +1,11 @@
+cvxpy==1.2.1
+cplex==22.1.0.0
+scipy==1.8.1
+gmpy2==2.1.2
+gurobipy==9.5.0
+PuLP==2.6.0
+mapel @ git+https://github.com/szufix/mapel.git@1e6f5e7fd24ec4455632945b2c6c0c93401a07ab
+abcvoting==2.4.0
+pandas==1.4.3
+numpy==1.23.0
+matplotlib==3.5.2

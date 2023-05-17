@@ -1,4 +1,4 @@
-# IJCAI23 - Paper 4658 - Ties in Multiwinner Approval Voting
+# IJCAI23 - Ties in Multiwinner Approval Voting (Łukasz Janeczko, Piotr Faliszewski)
 
 ## Experiments:
 
